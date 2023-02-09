@@ -1,3 +1,3 @@
 # Clash Client
-## ClashX for MAC
-## Clash for Windows
+- ClashX for MAC
+- Clash for Windows
