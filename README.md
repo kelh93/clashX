@@ -1,1 +1,3 @@
-# ClashX 客户端
+# Clash Client
+## ClashX for MAC
+## Clash for Windows
